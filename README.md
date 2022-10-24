@@ -15,3 +15,14 @@ More times we press it the higher the number
 If we press the toast button it resets
 
 ![image](https://user-images.githubusercontent.com/91747025/197590504-3d636caf-63e4-4564-8bf5-842774feaf6d.png)
+
+# RelativeLayout
+When using the app in portrait mode it looks like this:
+
+![image](https://user-images.githubusercontent.com/91747025/197609424-8e384437-8d66-4360-a02c-6f45cee87781.png)
+
+And if we rotate to landscape it looks like this:
+
+![image](https://user-images.githubusercontent.com/91747025/197609512-e0e854c0-4cbf-4851-9cfc-2a25c497b90e.png)
+
+Now both views are capable of being used.
