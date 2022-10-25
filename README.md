@@ -16,6 +16,10 @@ If we press the toast button it resets
 
 ![image](https://user-images.githubusercontent.com/91747025/197590504-3d636caf-63e4-4564-8bf5-842774feaf6d.png)
 
+### Edit
+Now, when the toast button is pressed it shows a message, instead of reseting the counter, for more acuracy to the exercise.
+![image](https://user-images.githubusercontent.com/91747025/197826318-fce1fd11-2979-4a5d-94a6-9d51187bee9e.png)
+
 # RelativeLayout
 When using the app in portrait mode it looks like this:
 
